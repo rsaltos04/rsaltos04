@@ -17,11 +17,11 @@ proyectos y mis intereses.
 ## Proyectos
 * Administrador de feria
 * Sistema de alarma de humo
-* Sistema de vase de datos de finanzas
+* Sistema de base de datos de finanzas
 
 ## Intereses
 * Jugar videojuegos
-* Ver series y peliculas
+* Ver series y películas
 
 ## Tecnologías
 - Java
