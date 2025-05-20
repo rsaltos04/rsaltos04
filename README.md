@@ -11,7 +11,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Ocupación: Estudiante Universitario
 * Edad: 20 años
 * Interes academico: Desarrollo web 
-* Linkedin: Jefferson Saltos [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jefferson-saltos-635934297)
+* Linkedin: Jefferson Saltos [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-saltos-635934297)
 
 
 ## 🚀 Proyectos
